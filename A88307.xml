@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true ministery anatomized Where it is clearly proved by scripture, I. What a true ministery is, and what a ministery God set in the church. II. A ministery not so set, is not the ministery of Christ. III. Our ministers of England have not the gift of tongues. IV. Truth is not obtained by studie. By Thomas Lipeat, not the author, but the actor.</title>
+            <author>Lipeat, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88307</idno>
+            <idno type="STC">Wing L2357</idno>
+            <idno type="STC">Thomason E1378_3</idno>
+            <idno type="STC">ESTC R209313</idno>
+            <idno type="EEBO-CITATION">99868196</idno>
+            <idno type="PROQUEST">99868196</idno>
+            <idno type="VID">169886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169886)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1378[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true ministery anatomized Where it is clearly proved by scripture, I. What a true ministery is, and what a ministery God set in the church. II. A ministery not so set, is not the ministery of Christ. III. Our ministers of England have not the gift of tongues. IV. Truth is not obtained by studie. By Thomas Lipeat, not the author, but the actor.</title>
+                  <author>Lipeat, Thomas.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold at the Black Spread-Eagle at the West-end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 15. 1651.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169886:1" rendition="simple:additions"/>
+            <p>A True MINISTERY ANATOMIZED.</p>
+            <p>Where it is clearly proved by SCRIPTURE,
+<list>
+                  <item>I. <hi>What a true Miniſtery is, and what a Miniſtery God ſet in the Church.</hi>
+                  </item>
+                  <item>II. <hi>A Miniſtery not ſo ſet, is not the Mi<g ref="char:EOLhyphen"/>niſtery of Chriſt.</hi>
+                  </item>
+                  <item>III. <hi>Our Miniſters of</hi> England <hi>have not the gift of Tongues.</hi>
+                  </item>
+                  <item>IV. <hi>Truth is not obtained by Studie.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By <hi>Thomas Lipeat,</hi> not the Author, but the Actor.</p>
+            <p>LONDON, Printed by <hi>J. C.</hi> and are to be ſold at the Black Spread-Eagle at the Weſt-end of <hi>Pauls.</hi> 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169886:2"/>
+            <pb facs="tcp:169886:2"/>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>HAving a cloud of Witneſſes to witneſs with me the Truth contained in this little Treatiſe, and having a great Battel to fight, even with <hi>beaſts after the manner of men; The weapons of our warfare are ſpiritual,</hi> warranted in Scri<g ref="char:EOLhyphen"/>pture: And theſe our enemies are Merchants that make the Nation believe they trade in Divine things. Indeed, they have large Shops: their Shops are an evil Conſcience; the things which they ſell, is frothie ſtuff, foaming out their own ſhame, Envie, Ha<g ref="char:EOLhyphen"/>tred, and Malice; poyſoning the underſtand<g ref="char:EOLhyphen"/>ings of them that trade with them: yea, they trade in the Temple: we buy, and they ſell; but both buyer and ſeller ſhall be whipt out. And, gentle Reader, my deſire for thee is, that if thou haſt bought a cup of Poyſon of theſe Merchants here diſcovered in this little Treatiſe, That thou mayſt
+<pb facs="tcp:169886:3"/>drink a cup of Bleſsing to cure thee withal.</p>
+            <p>Thus leaving thee, I deſire thou mayſt be ſo wiſe, even with Wiſdom it ſelf, to diſcern the Truth, to believe it, and love it, and to hate even <hi>the appearance of evil</hi> with a deadly Hatred. Fare ye well.</p>
+            <closer>
+               <signed>
+                  <hi>Yours, in all Love, and tenderneſs of ſpirit,</hi> Thomas Lipeat.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169886:3"/>
+            <p>
+               <seg rend="decorInit">A</seg> Clear deſcription of a true Mini<g ref="char:EOLhyphen"/>ſtery, differing from the Miniſte<g ref="char:EOLhyphen"/>ry of Antichriſt: and this Mini<g ref="char:EOLhyphen"/>ſtery of Antichriſt is that which overfloweth this Nation, from the one end to the other as it will ap<g ref="char:EOLhyphen"/>pear proved in Scripture, which Record is true. The Apoſtle <hi>Paul</hi> doth clearly ſet down what a true and faithful Miniſtery is, as we finde in 1 <hi>Cor.</hi> 12.28. ſaying, <hi>God hath ſet ſome in the Church; as firſt Apoſtles, ſecondarily Prophets, thirdly Teachers, after that Mira<g ref="char:EOLhyphen"/>cles, then gifts of Healing helps in Govern<g ref="char:EOLhyphen"/>ment, diverſity of Tongues:</hi> ſome of every ſort, according to the expreſs words of the Apo<g ref="char:EOLhyphen"/>ſtle. As alſo the ſame Apoſtle doth further de<g ref="char:EOLhyphen"/>clare, in <hi>Epheſ.</hi> 4.11. ſaying, <hi>God gave ſome to be Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Paſtors, and ſome Teachers.</hi> As if the Apoſtle had ſaid, If any man deſire to know the Miniſtery of Chriſt from
+<pb n="2" facs="tcp:169886:4"/>the Miniſtery of Antichriſt, here it is recorded by me <hi>Paul</hi> which am alſo a Miniſter of Chriſt: This is the Miniſtery that is ſet in the Church; this is the Miniſtery that did plant the Churches in that Order of whom we finde in record of Scripture: This Miniſtery is infallible; this Mi<g ref="char:EOLhyphen"/>niſtery ſpake <hi>as the Spirit gave them utter<g ref="char:EOLhyphen"/>ance:</hi> this Miniſtery is able to deliver the minde of God in the purity of it; for they were veſſels in whom God did ſpeak: they ſpake by the in<g ref="char:EOLhyphen"/>ſpiration of the holy Ghoſt. We finde not in all the Scriptures, that any Miniſtery was ſhort of this that is here recorded. We never finde in Scripture, that any Churches were planted, or that any did adminiſter the Ordinances, but this Miniſtery that is infallible, as <hi>Paul</hi> declares, in 1 <hi>Cor.</hi> 11.23. ſaying, <hi>That which I have re<g ref="char:EOLhyphen"/>ceived of the Lord, I have delivered unto you.</hi>
+            </p>
+            <p>But there is a Miniſtery in this Land, which hath deluded this Nation, making men believe that they are the Miniſters of Chriſt, and that they have the gift of Tongues, when indeed they do but tell you a falſe thing. Alſo, they make men believe they are Divines; when it is clear in Scriptures, there is no Divine but God alone. In<g ref="char:EOLhyphen"/>deed, if they be Divines, it is but as the maid did divine, in <hi>Acts</hi> 16.16. <hi>And it came to paſs, as we went to prayer, a certain damſel poſſeſſed
+<pb n="3" facs="tcp:169886:4"/>with a ſpirit of divination met us, which brought her maſter much gain by ſoothſaying.</hi> So indeed they get to themſelves great Livings by the ſpirit of Divination by deluding and bewitch<g ref="char:EOLhyphen"/>ing the Nation with their Sophiſtry and cunning, and making men and women believe they have the gift of Tongues, when at the beſt, and the moſt that can be ſaid of all they have, it is but humane Learning. We finde in Scriipture, that <hi>Simon Magus</hi> could not buy the gift of the holy Ghoſt with money: but when he did deſire to purchaſe this gift, what was the anſwer of <hi>Peter</hi> to him? <hi>Thy money periſh with thee.</hi>
+            </p>
+            <p>But to make it appear that our Prieſts of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> have not this gift of Tongues, is to be pro<g ref="char:EOLhyphen"/>ved. I firſt prove this to be true, from this ground. All that they have more then other men have, it is but to read the Hebrew and Greek Tongues; and this is learned for money, even as a childe learns to read the Engliſh Tongue: thus Antichriſtian Miniſters indeed have this Humane Learning. But Humane Learning is no help to the underſtanding of the myſtery of ſalvation: this is bought with money, and therefore no gift: it is, at the beſt, but a practice, and not a gift. If you will know what a gift of Tongues is, look into <hi>Acts</hi> 2. there it is ſaid that when God was pleaſed to give the gift of Tongues, then <hi>they ſpake as the Spirit gave them utterance.</hi> We
+<pb n="4" facs="tcp:169886:5"/>do not finde that theſe <hi>Galileans</hi> went to Schools of Learning, to ſpeak the wonders of the Lord in ſo many ſeveral Languages. Now the text ſaith, <hi>There were of every nation under hea<g ref="char:EOLhyphen"/>ven,</hi> as we ſee in the fifth verſe. <hi>And when this was noiſed abroad the multitude came to<g ref="char:EOLhyphen"/>gether, and were confounded, becauſe they heard him ſpeak in his own tongue wherein they were born.</hi> This indeed was the gift of Tongues; it was not bought with money, as their Humane Learning is, which is but a pra<g ref="char:EOLhyphen"/>ctice, and not a gift, as is before declared. Oh that the Nation had that diſcerning ſpirit, to diſ<g ref="char:EOLhyphen"/>cern the true Miniſtery of Chriſt from the Mini<g ref="char:EOLhyphen"/>ſters of Antichriſt! Theſe Miniſters of Anti<g ref="char:EOLhyphen"/>chriſt, under this notion of the gift of Tongues, make poor ignorant men and women believe that they are able Miniſters to define an infinite God: poor finite creatures as they are, they know not what God is in Himſelf, nor what he is to his Creatures. Chriſt ſaith, <hi>No man knoweth the Father, but the Son, and him to whom the Son will reveal him.</hi>
+            </p>
+            <p>The Miniſters of Chriſt did not ſtudie to finde out truth; as Chriſt ſaid to his Diſciples, <hi>To you it is given to know the myſteries of ſalvation.</hi> And yet thus Miniſters of Antichriſt make men believe they finde out truth by ſtudie. I remem<g ref="char:EOLhyphen"/>ber there is a ſaying in Scripture, where the Lord
+<pb n="5" facs="tcp:169886:5"/>ſaid, <hi>I was found of them that ſought me not and I was made manifeſt to them that asked not af<g ref="char:EOLhyphen"/>ter me:</hi> where then was Studies? where then was Humane Learning, which is the God of the Nations? And again, we find in <hi>Gal.</hi> 1.11, 12. <hi>But I certifie you, brethren, that the Goſpel which was preached of me, is no after <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>; For I nei<g ref="char:EOLhyphen"/>ther received it of man, neither was I taught it, but by the revelation of Jeſus Christ.</hi>
+            </p>
+            <p>But it may be it will be objected that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe times revelation is ceaſed; there is to ſuch reve<g ref="char:EOLhyphen"/>lation now in our days as hath been in former time.</p>
+            <p>
+               <hi>Anſw.</hi> There is the ſame Revelation and Inſpiration as was in former time; elſe how can finite creatures know the mind of an infinite God, and his love to them in Chriſt from all eter<g ref="char:EOLhyphen"/>nity? Truly thoſe that deny Revelation and Inſpiration, muſt alſo deny the Scriptures: and in <hi>Jer.</hi> 31.33, 34. the Lord declares, that <hi>he will make a Covenant with his people, and will put his Laws into their hearts, and write them in their inward parts:</hi> and there the Lord ſaith by the witneſs of his Spirit witneſſing to our ſpirits, that <hi>we are the children of God.</hi> And in <hi>ver.</hi> 34. the Lord ſaith, <hi>And they ſhall teach not more every man his Neighbour, and every man his Brother, ſaying, Know the Lord; for they ſhall
+<pb n="6" facs="tcp:169886:6"/>all know me, from the leaſt of them unto the greateſt of them, ſaith the Lord.</hi> And again, mark that ſaying in 1 <hi>John</hi> 2.27. <hi>But the Anoynting which we have received of him, abideth in you; and ye need not that any man teach you, but as the ſame Anoynting teacheth you of all things:</hi> And truly, if theſe immediate Teachings of God be not by Revelation, nor by Inſpiration, I wonder how it will be made to appear that theſe Scriptures are true; ſeeing it is not in the power of any finite creature to make known the myſterie of ſalvation, or the love of God in Chriſt according to the purpoſe of God from all eternity?</p>
+            <p>We find in 1 <hi>Cor.</hi> 2. to the fourth verſe, the Apoſtle declares, that he <hi>came not in the ex<g ref="char:EOLhyphen"/>cellency of mans wiſdom declaring unto them the teſtimony of God;</hi> declaring that <hi>he did deſire to know nothing but Chriſt and him crucified;</hi> even to preach a naked Chriſt to declare nothing but a bare Chriſt upon his own terms: and tru<g ref="char:EOLhyphen"/>ly he did not come with inticing words of mans wiſdom, but in demonſtration of the Spirit, and of power. Where is there ſuch a Miniſtry now with us in <hi>England</hi> as this is? The Apoſtle ſaith in <hi>vexſe</hi> 7. <hi>We ſpeak the wiſdom of God in a myſterie:</hi> and in the ninth verſe declares, <hi>that eye hath not ſeen, neither hath it entred into the
+<pb n="7" facs="tcp:169886:6"/>heart of man, the thinge which God hath <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rep<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed for them that love him:</hi> And in the tenth verſe he ſaith, <hi>But God hath revealed them to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pirit:</hi> for ſaith he <hi>the Spirit ſearch<g ref="char:EOLhyphen"/>eth <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of God.</hi> Yet our Miniſters of A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>chriſt which <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with us in <hi>England</hi> ſay, We muſt ſtudy to find out Truth. Truly this is contrary to he Miniſtry which is record<g ref="char:EOLhyphen"/>ed in Scriptures as clearly hath been proved.</p>
+            <p>Truly our Miniſters ſtudy how to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Rich of the world to be their friends and how to have the ſword to befriend them and ſtudy to get fat Livings and ſtudy how to rail againſt men that walk not in the ſame form with them, even with madneſs and bitterneſs of ſpirit: where is there a Miniſter in <hi>England</hi> that is fa<g ref="char:EOLhyphen"/>miliar with the poor as they are with the rich? no, they are for the moſt part proud perſons, haughty, high minded, g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rmandizing greedy belly gods; a falſe diſſembling lying generation; they are ſuch as are ſpoken of in <hi>Hoſea</hi> 6.9. ſaying <hi>and as Troops of Robbers wait for a man, ſo the company of Prieſts murder in the way by conſent; for they commit lewdneſſ.</hi> Truly ſo is it with our Prieſts of <hi>England;</hi> how many yeers have they committed murder by conſent? they live like dro<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, and ly in their dens to ſtu<g ref="char:EOLhyphen"/>dy miſchief, and to ſet the Nation a burn<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:169886:7"/>with Madneſs one againſt another.</p>
+            <p>But ſome may ſay, why do you term them to drones? Truly, I underſtand this term to be moſt fit and ſutable for them; and for the moſt part you ſhall find but one in a pariſh, as com<g ref="char:EOLhyphen"/>monly you ſhall ſee but one drone in a Hive of Bees. But we ſee in a hive of Bees where a drone is that lives upon the honey that the poor Bees work for: The nature of the Bee is, they with one conſent will take the Drone and drag him out, they will not ſuffer the Drone to live there, to eat up the honey that the labouring Bees work for: Oh the Wiſdom of God to be<g ref="char:EOLhyphen"/>hold in theſe little creatures that they ſhould be ſo wiſe in their generation; it is a wonder of wonders to conſider of in theſe ſmall creatures: and truly I can but wonder to ſee how this Na<g ref="char:EOLhyphen"/>tion is beſotted, to maintain in every Pariſh one Drone, and in ſome Pariſhes two Drones to eat up the honey that all the labouring Bees work for; and as it is with theſe Drones in a hive of Bees, they will not work; ſo is it with our Drones, they will not work, but they will com<g ref="char:EOLhyphen"/>pel the poor Bees to work for them, and they will eat of the beſt honey too; and when theſe Drones ly upon their beds of Doun; the Mini<g ref="char:EOLhyphen"/>ſters of Chriſt muſt ly in a Dungeon, or ſome ſtinking priſon; as <hi>Paul</hi> declares in 2 <hi>Cor.</hi> 11.23.
+<pb n="9" facs="tcp:169886:7"/>ſaying, <hi>Are they Miniſters of Chriſt: I ſpeak as a fool, I am more; in labours more abundant, in ſtripes above meaſure, in Priſons more frequent, in deaths oft.</hi> And ſo the Apoſtle goes on from this 23. verſe, to the end of verſe 27. and in verſe. 27. he ſaith, <hi>In wearineſs and painfulneſs, in watchings often, in hunger and thirſt, in faſtings often, in cold and nakedneſs:</hi> and in verſe 28. he concludes, <hi>Beſides all theſe things, he had the care of all the Churches:</hi> Thus you ſee what <hi>Paul</hi> did undergo being a Miniſter of Chriſt. <hi>Peter</hi> alſo in <hi>Acts</hi> 5.18. <hi>Paul</hi> and <hi>Silas, Acts</hi> 16.24. This is recorded of the true Miniſtry of Chriſt and what they did undergo for the Truth. Whereas our Drones ly lurking in their dens, ſtudying how to get the fat of the Land, and how to rail againſt the people of God. But I pray mark, they are not ſet in the Church according as that Mini<g ref="char:EOLhyphen"/>ſtry was which is recorded in Scripture by the Apoſtle <hi>Paul,</hi> and which is mentioned in the former part of this Treatiſe; as we find in 1 <hi>Cor.</hi> 12.28. there the Apoſtle faith, <hi>God hath ſet them in the Church:</hi> And again in <hi>Epheſ.</hi> 4.11. he ſaith, <hi>God gave ſome to be,</hi> as it is there declared. Here is as great a difference betwixt theſe that <hi>God gave</hi> and that <hi>God ſet</hi> to be in the Church, and theſe Drones of <hi>England,</hi>
+               <pb n="10" facs="tcp:169886:8"/>as there is between light and darkneſs; the one is <hi>given of God</hi> and <hi>ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>b God;</hi> the other ſtu<g ref="char:EOLhyphen"/>ſty to be as he is: and he is ordained of Anti<g ref="char:EOLhyphen"/>chriſt in that place he is The Miniſtry which was given of God, or ſet in of God <hi>ſ<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k as <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Spirit g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve them <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>terence:</hi> theſe ſtudy what they muſt ſpeak; and yet they are not aſhamed to ſay they are fit and able Miniſters of Jeſus Chriſt and that they are Divines; indeed if they are Divines they are diveliſh Divines, as hath been proved in <hi>Acts</hi> 16.16.</p>
+            <p>There is one thing more to be noted by this Miniſtry of Antichriſt, which is worthy of ob<g ref="char:EOLhyphen"/>ſervation; the thing to be noted is this, Oh, ſay they, None can declare the mind of God but we that are men of Learning: Illiterate men cannot find cut the Myſterie of Truth they cannot underſtand the Hebrew and Greek Tongues as we can; therefore notable Mini<g ref="char:EOLhyphen"/>ſters of Chriſt. But I pray mark the cunning of the men of this Craft. They ſay, men that are not learned in theſe Tongues cannot find out the Truth, for there are things in the Hebrew Tongue which muſt be interpreted into Engliſh, which they cannot do that are illiterate men: But I deſire that all the Nation did but under<g ref="char:EOLhyphen"/>ſtand their craf; they ſay the Hebrew and Greek muſt be interpreted into Engliſh, and yet
+<pb n="11" facs="tcp:169886:8"/>they ſay we have the word of God in our own Tongue perfectly; if that be perfectly, the word of God in our own Tongue, which they ſay it is then what need any further Interpretation? And if it need to be interpreted, then it is not perfect: But the word of God is as pure and perfect in our Engliſh, as ever it was in the He<g ref="char:EOLhyphen"/>brue and Greek Tongue; Therefore it need not help of the Hebrue and Greek Tongue to interpret it into our own Tongue.</p>
+            <p>The word of God is one intire being, it can<g ref="char:EOLhyphen"/>not be ſo divided as they make men believe; the Word that was in the beginning, and was made fleſh, and dwelt amongſt us, as we finde in <hi>John Cap.</hi> 1. and the beginning cannot be di<g ref="char:EOLhyphen"/>vided: The word of the Lord doth endure for ever: This which they call the pure word of God, which is the Scripture, theſe ſilly Drones count it impure themſelves from this ground, and yet do not ſee it themſelves: The Reaſon is becauſe there muſt be made a more clear interpretation from the <hi>Hebrue</hi> and <hi>Greek</hi> into our own Tongue: But if they were the true and faithfull Miniſters of Chriſt, as they ſay they are, then I wonder how they dare be ſo unfaith<g ref="char:EOLhyphen"/>full in their office that they do not let us have that which they call the word of God without further interpretation in our own Tongue: But if
+<pb n="12" facs="tcp:169886:9"/>you have any conference with them, they will tell you it is the pure word. Now mark I be<g ref="char:EOLhyphen"/>ſeech you in the former part of this Treatiſe it hath been proved by divers places of Scripture, what a true Miniſtry is and where it follow<g ref="char:EOLhyphen"/>eth on the contrary part, that whoſoever he be under the Sun that is not thus warranted in Scriptures, and that delivers not the mind of God with that infallible ſpirit, with inſpiration or Revelation is not the true Miniſters of Chriſt, but the Miniſters of Anti-chriſt: And therefore I deſire the Lord to ſet it home to the under<g ref="char:EOLhyphen"/>ſtandings of men to diſcern a true Miniſtry; and the Lord ſay unto all thoſe that deſire to know a true Miniſtry as <hi>P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> ſaid in <hi>Colloſ.</hi> 2. <hi>v,</hi> 8. <hi>Beware loſt any man deceive you through Phi<g ref="char:EOLhyphen"/>loſophy and vain deceit after the tradition of men, after the rudiments of the world, and not after Chriſt;</hi> to believe a Miniſtry not warrant<g ref="char:EOLhyphen"/>ed in Scriptures, for there it hath been proved that our Miniſters of <hi>England</hi> hath not the gift of Tongues, for their learning is bought with money, therefore no gif<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Again, the glory of ſalvation is not obtained by ſtudy, for it is a free gift, alſo a finite creature cannot define an infi<g ref="char:EOLhyphen"/>nite God no otherwiſe then he doth diſcover himſelf by inſpiration or Revelation; as the Lord ſaith in divers places, as in <hi>Iſaiah</hi> 44,
+<pb n="13" facs="tcp:169886:9"/>
+               <hi>v.</hi> 13. <hi>Ier.</hi> 31. <hi>v.</hi> 33, 34e <hi>Iohn</hi> 1. <hi>v.</hi> 20. and 27. <hi>Heb.</hi> 8. <hi>v.</hi> 10, 11. Alſo Chriſt ſaid to his Diſciples, <hi>To you it is given to know the My<g ref="char:EOLhyphen"/>ſterie of Salvation.</hi> And Chriſt declared the ſame thing in <hi>Iohn</hi> 6. <hi>v.</hi> 45. <hi>It is written in the Prophets, and they ſhall be all taught of the Lord, every man that hath heard and hath learned of the Father, cometh to me.</hi> Chriſt did not ſay, He that doth hear this man or that man what they ſay, ſhall come unto me. And again, it is written <hi>He that hath an ear to hear, let him hear what the Spirit ſaith unto the Churches.</hi> It was the Spirit that ſaid in 1 <hi>Cor.</hi> 2. <hi>v.</hi> 12. <hi>God hath ſet that Miniſtery in the Church.</hi> And in <hi>Epheſ.</hi> 4, <hi>v,</hi> 11. God <hi>gave</hi> that Miniſtery there recorded to be in the Church: But we never find in all the Scripture that God ſaid that man ſhall go to Schools of Learning to be tutored by man, to be made fit and able Miniſters of Jeſus Chriſt But in 1 <hi>Cor. Chap.</hi> 2, <hi>v.</hi> 4. <hi>My ſpeech and my preaching was not with inticing words of mans wiſdom, but in demonſtration of the, Spirit and of power.</hi> Paul that was a faithfull and true Miniſter of Chriſt, exhorts the <hi>Colloſſians</hi> to take heed of a falſe Miniſtery, ſaying to them, <hi>Beware leſt any man ſpoil you through Philoſophy and vain deceit, af<g ref="char:EOLhyphen"/>ter the traditions of men, and not after God.</hi>
+               <pb n="14" facs="tcp:169886:10"/>Now it is not warranted in Scriptures that men muſt go to men to learn humane learning to be made able and fit Miniſters of Chriſt; therefore a Tradition of man, and not an Ordinance of God, But indeed theſe men are wiſe in their generation as Chriſt ſaid, <hi>The children of this world are in their generation wiſer then the children of light:</hi> For if they once leave inter<g ref="char:EOLhyphen"/>pretation, then they know the hope of their gain is loſt, and then what ſhall they do; work they cannot, and to beg they are aſhamed, and they will not do as <hi>Paul</hi> did, when he ſaid, <hi>Theſe bands of mine have miniſtred to my neceſſitie, and to thoſe that are with me.</hi> Truly, if <hi>Paul</hi> were now alive, this generation of Miniſters would have judged him to have been a <hi>Ranter</hi> or ſome falſe Teacher, when he became all unto all: Now if men do not believe all they ſay to be true, and not be in the ſame Anti-chriſtian form with them, then what followeth? Oh ſuch a one is a <hi>Rauter,</hi> or a Blaſphemer of God, and of the wayes of God; then they rail and revile ſuch perſons that will not own their wor<g ref="char:EOLhyphen"/>ſhip and Miniſtery: And truly it muſt be ſo, for the Scriptures muſt be fulfilled; as Chriſt ſaid, <hi>Ye ſhall be hated of many for my Names ſake.</hi> Indeed this ſtone is caſt aſide of you Builders.</p>
+            <p>
+               <hi>Object.</hi> But ſome may ſay, Why do you
+<pb n="15" facs="tcp:169886:10"/>call them builders? In the former part of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Treauſe you did call them laſie idle Drones that ea<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y that the labouring Bee works for, and in this place you call them Builders how can theſe two things ſtand together?</p>
+            <p>
+               <hi>Anſw.</hi> Truly they are Builders, and that according to Scriptures; they are Builders that ſeeks to make up the breaches in <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l;</hi> but we have a Proverb in <hi>England,</hi> When men begin to juſtifie a bad matter, we uſe to ſay. <hi>The more they ſtrive, the more it ſtirks:</hi> So is it with our Anti-chriſtian brood, with our crcking Frogs, that came from the bottomleſs pit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the more they go about to prove themſelves to be the Miniſters of Chriſt the more it doth appear to the godly, they are but the Miniſters of Anti<g ref="char:EOLhyphen"/>chriſt: For when they build it is what they ſtudy and what they conceive, or what they think will ſerve their own turn, to maintain their ſtanding in great pomp, even to Lord it over others that for Conſcience ſake hold forth things contrary to their Light. Theſe things are declared not to envy the perſon of any in the Nation, but that where a Candie is light, it will ſhew <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight to thoſe that are in the houſe: So now light is come amongſt us in <hi>England,</hi> even Truth it ſelf is broke forth to us, Notwithſtand<g ref="char:EOLhyphen"/>ing
+<pb n="16" facs="tcp:169886:11"/>mauger the malice of the Devill, and envy of Truth; Yet Truth ſhall never be aſha<g ref="char:EOLhyphen"/>med.</p>
+            <closer>
+               <signed>THOMAS LIPEAT, <hi>Not the A<g ref="char:V">Ʋ</g>THOR, But the ACTOR.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
